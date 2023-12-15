@@ -6,6 +6,6 @@ const App = ({ Component, pageProps }: AppProps) => {
   );
 };
 
-//another commit
+//another commit: git commit -a -m "test commit" and then git push
 
 export default App;
